@@ -70,6 +70,4 @@ Here is an example of a developer about to push some code to a branch:
 
 ![Example](/GitHubDocs/Images/GitHubNamingCommitGoodExample.png)
 
-![Example]((https://github.com/barbute/Documentation/blob/main/GitHubDocs/Images/GitHubNamingCommitGoodExample.png)
-
 As seen here, our developer forgot to commit the `arm feedforward` and the `drive PID` features separately. To make up for it, the commit title is concise and a description has been added further explaining what was done in the commit.
