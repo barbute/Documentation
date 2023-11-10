@@ -43,7 +43,7 @@ A name will be composed of the three elements above that will describe what the 
 
 Here is an example of a good name:
 
-![Example](C:\Users\clyit\OneDrive\Desktop\Documentation\GitHubDocs\Images\GitHubNamingRepositoryGoodExample.png)
+![Example](GitHubDocs/Images/GitHubNamingRepositoryGoodExample.png)
 
 From this we are able to tell that this repository the for a robot, it is the main iteration of the code for that robot, and it is the code for Armstrong, which is 9105's 2023 robot. While this is a basic example, and it may seem like one could simply get away with "Armstrong 2023" note that there are multiple other projects and there may be other rewrites of the code. Things could get cluttered, and this scheme makes it much easier to locate and discern repository from repository.
 
@@ -68,6 +68,7 @@ Naming a commit is fairly straightforward. Simply state what feature you added o
 
 Here is an example of a developer about to push some code to a branch:
 
-![Example of a good commit](C:\Users\clyit\OneDrive\Desktop\Documentation\GithubDocs\Images\GitHubNamingCommitGoodExamplepng.png)
+![Example of a good commit](/GithubDocs/Images/GitHubNamingCommitGoodExamplepng.png)
 
 As seen here, our developer forgot to commit the `arm feedforward` and the `drive PID` features separately. To make up for it, the commit title is concise and a description has been added further explaining what was done in the commit.
+
