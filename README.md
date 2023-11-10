@@ -6,7 +6,7 @@ Some articles have also been specifically dedicated to documenting knowledge gai
 
 Here is an index of this documentation:
 
-- 🌳 [GitHub Standards](/Documentation/GithubDocs/GITHUB_DOCS.md)
+- 🌳 [GitHub Standards](GitHubDocs/GITHUB_DOCS.md)
 - 🧑‍💻 Programming Conventions
 - 📈 Advantage Suite Documentation
 

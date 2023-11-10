@@ -7,8 +7,8 @@ As such, all GitHub naming conventions are standards when working in the organiz
 Here is an index for this article:
 
 - [Repository](GITHUB_NAMING.md#repository)
-- Branch
-- Commit
+- [Branch](GITHUB_NAMING.md#branch)
+- [Commit](GITHUB_NAMING.md#commit)
 
 ## Repository
 
