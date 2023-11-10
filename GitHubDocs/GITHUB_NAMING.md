@@ -6,7 +6,7 @@ As such, all GitHub naming conventions are standards when working in the organiz
 
 Here is an index for this article:
 
-- [Repository](https://github.com/barbute/Documentation/main/GitHubDocs/GITHUB_NAMING.md#repository)
+- [Repository](GitHubDocs/GITHUB_NAMING.md#repository)
 - Branch
 - Commit
 
