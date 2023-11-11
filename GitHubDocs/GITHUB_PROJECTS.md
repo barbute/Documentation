@@ -1,3 +1,5 @@
+[*< back*](GITHUB_DOCS.md)
+
 # 📽 Projects
 
 An excellent way to organize a long-term code project is to use GitHub Projects. GitHub Projects allow teams to visualize due dates, see specific tasks in every category, add issues to specific GitHub repositories and add it as a task, and so much more. Projects are very powerful and easy to setup systems, that can keep small teams in check. The utility is heavily integrated with GitHub, and as such has a lot of convienence features when working with it.
@@ -6,9 +8,9 @@ This article is to walk-through a standard Projects setup.
 
 Here is an index of this article:
 
-- Creating a project
-- Creating a task list
-- Creating a timeline
+- [Creating a project](GITHUG_PROJECTS.md#Creating a project)
+- [Creating a task list](GITHUG_PROJECTS.md#Creating a task list)
+- [Creating a timeline](GITHUG_PROJECTS.md#Creating a timeline)
 
 ## Creating a project
 

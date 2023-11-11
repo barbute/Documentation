@@ -1,3 +1,5 @@
+[*< back*](GITHUB_DOCS.md)
+
 # 📛 Naming
 
 Disappointingly, many team members struggle with naming things correctly. Whether it be a commit title, repository, or a superstructure's branch, it is simply inevitable that a team member will misname something, and cause a great deal of confusion in the near future for maintainers.

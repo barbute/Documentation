@@ -12,3 +12,4 @@ Here is an index of this documentation:
 
 Currently the team uses GitHub and Visual Studio Code. As such, it is recommended to familiarize yourself with the technologies before reading further in-depth.
 
+For further reference, please look at [Programming Guidelines ](https://docs.google.com/document/d/1Ly3I-YrTiJ3HmsUMFYOIk9CZvm07Qcb_gI0bxpOWXeI/edit) document.
