@@ -8,9 +8,9 @@ This article is to walk-through a standard Projects setup.
 
 Here is an index of this article:
 
-- [Creating a project](GITHUG_PROJECTS.md#Creating a project)
-- [Creating a task list](GITHUG_PROJECTS.md#Creating a task list)
-- [Creating a timeline](GITHUG_PROJECTS.md#Creating a timeline)
+- [Creating a project](GITHUG_PROJECTS.md#Creating-a-project)
+- [Creating a task list](GITHUG_PROJECTS.md#Creating-a-task-list)
+- [Creating a timeline](GITHUG_PROJECTS.md#Creating-a-timeline)
 
 ## Creating a project
 
