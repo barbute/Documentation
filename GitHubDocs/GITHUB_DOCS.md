@@ -10,7 +10,7 @@ Here is an index of this section:
 
 - 📛 [Naming](GITHUB_NAMING.md)
 - 📽️ [Projects](GITHUB_PROJECTS.md)
-  - 🗃 Organization
-- 📚 Repositories
-  - 🕊 Branches
-  - 🦀 Commits
+  - 🗃 [Organization](GITHUB_PROJECTS.md#Organization)
+- 📚 [Repositories](GITHUB_REPOSITORIES.md)
+  - 🕊 [Branches](GITHUB_REPOSITORIES.md#Branches)
+  - 🦀 [Commits](GITHUB_REPOSITORIES.md#Commits)

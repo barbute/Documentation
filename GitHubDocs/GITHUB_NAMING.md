@@ -1,16 +1,17 @@
 [*< back*](GITHUB_DOCS.md)
 
+Here is an index of this article:
+
+- 📛 [Naming](GITHUB_NAMING.md)
+  - [Repository](GITHUB_NAMING.md#repository)
+  - [Branch](GITHUB_NAMING.md#branch)
+  - [Commit](GITHUB_NAMING.md#commit)
+
 # 📛 Naming
 
 Disappointingly, many team members struggle with naming things correctly. Whether it be a commit title, repository, or a superstructure's branch, it is simply inevitable that a team member will misname something, and cause a great deal of confusion in the near future for maintainers.
 
 As such, all GitHub naming conventions are standards when working in the organization.
-
-Here is an index for this article:
-
-- [Repository](GITHUB_NAMING.md#repository)
-- [Branch](GITHUB_NAMING.md#branch)
-- [Commit](GITHUB_NAMING.md#commit)
 
 ## Repository
 

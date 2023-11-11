@@ -1,16 +1,18 @@
 [*< back*](GITHUB_DOCS.md)
 
+Here is an index of this article:
+
+- 📽 [Projects](GITHUB_PROJECTS.md)
+  - [Creating a project](GITHUB_PROJECTS.md#Creating-a-project)
+  - [Creating a task list](GITHUB_PROJECTS.md#Creating-a-task-list)
+  - [Creating a timeline](GITHUB_PROJECTS.md#Creating-a-timeline)
+- 🗃 [Organization](GITHUB_PROJECTS.md#Organization)
+
 # 📽 Projects
 
 An excellent way to organize a long-term code project is to use GitHub Projects. GitHub Projects allow teams to visualize due dates, see specific tasks in every category, add issues to specific GitHub repositories and add it as a task, and so much more. Projects are very powerful and easy to setup systems, that can keep small teams in check. The utility is heavily integrated with GitHub, and as such has a lot of convienence features when working with it.
 
 This article is to walk-through a standard Projects setup.
-
-Here is an index of this article:
-
-- [Creating a project](GITHUB_PROJECTS.md#Creating-a-project)
-- [Creating a task list](GITHUB_PROJECTS.md#Creating-a-task-list)
-- [Creating a timeline](GITHUB_PROJECTS.md#Creating-a-timeline)
 
 ## Creating a project
 
@@ -79,7 +81,7 @@ This tab is good for project managers to see where their people and their projec
 GitHub Projects are a powerful tool, that this article just barely touches on. However, here are some more rules for organizaing a project:
 
 - **Update** your project manager 📝
-  - Despite GitHub Projects being an excellent project organization tool, the mentors still prefer to use Google Spreadsheets for a quick overview of all projects for the Robotics team. As such, please keep that spreadsheet *AND* your GitHub Project up to date
+  - Despite GitHub Projects being an excellent project organization tool, the mentors still prefer to use Google Spreadsheets for a quick overview of all projects for the Robotics Team. As such, please keep that spreadsheet *AND* your GitHub Project up to date
 - **Talk** to your team members 🎙
   - Most new people on the team are typically shy and do not know where to begin. Just talk to people, most of the time you'll find that they really do not mind. It is imperative that discussion takes place during projects, do not withhold valuable information because you were too afraid to speak to others
 - **Plan**, but not too much 🗺
