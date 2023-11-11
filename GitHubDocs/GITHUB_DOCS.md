@@ -7,8 +7,8 @@ The subsequent articles will go over team standards when using GitHub. It is imp
 Here is an index of this section:
 
 - 📛 [Naming](GITHUB_NAMING.md)
-- 📽️ Projects
-  - Organization
+- 📽️ [Projects](GITHUB_PROJECTS.md)
+  - 🗃 Organization
 - 📚 Repositories
-  - Branches
-  - Commits
+  - 🕊 Branches
+  - 🦀 Commits
