@@ -6,10 +6,10 @@ Here is an index of this article:
   - [Organizing a repository](GITHUB_REPOSITORIES.md#Organizing-a-repository)
   - [Similar repositories](GITHUB_REPOSITORIES.md#Similar-repositories)
 - 🕊 [Branches](GITHUB_REPOSITORIES.md#Branches)
-  - [Project development](GITHUB_REPOSITORIES.md#Project0development)
+  - [Project development](GITHUB_REPOSITORIES.md#Project-development)
   - [Rules](GITHUB_REPOSITORIES.md#Rules)
 - 🦀 [Commits](GITHUB_REPOSITORIES.md#Commits)
-  - [Naming & Desc](GITHUB_REPOSITORIES.md#Naming-&-Desc)
+  - [Naming & Desc](GITHUB_REPOSITORIES.md#Naming)
 
 # 📚 Repositories
 
@@ -82,6 +82,6 @@ Having good commit practice will aid future maintainers and debuggers in tracing
 
 > NOTE: Good commit conventions need to be followed even if you are doing a "personal rewrite"
 
-## Naming & Desc
+## Naming
 
 Good naming and descriptions of commits can be found [here](GITHUB_NAMING.md).
